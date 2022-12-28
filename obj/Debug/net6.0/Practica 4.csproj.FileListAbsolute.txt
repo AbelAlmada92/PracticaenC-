@@ -1,0 +1,15 @@
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.AssemblyInfo.cs
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\bin\Debug\net6.0\Practica 4.exe
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\bin\Debug\net6.0\Practica 4.deps.json
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\bin\Debug\net6.0\Practica 4.runtimeconfig.json
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\bin\Debug\net6.0\Practica 4.dll
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\bin\Debug\net6.0\Practica 4.pdb
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.dll
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\refint\Practica 4.dll
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.pdb
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\Practica 4.genruntimeconfig.cache
+C:\Users\mauro\Desktop\IFTS objetos\Practicas de Tecnicas\Practica 4\obj\Debug\net6.0\ref\Practica 4.dll
